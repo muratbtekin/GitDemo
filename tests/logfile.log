@@ -1,0 +1,47 @@
+2022-10-11 13:34:15,510 : INFO : utilities.BaseClass : Information statement
+2022-10-11 13:34:15,510 : WARNING : utilities.BaseClass : Something is warning mode
+2022-10-11 13:34:15,510 : ERROR : utilities.BaseClass : A major error happened
+2022-10-11 13:35:56,999 : INFO : utilities.BaseClass : Information statement
+2022-10-11 13:35:56,999 : WARNING : utilities.BaseClass : Something is warning mode
+2022-10-11 13:35:56,999 : ERROR : utilities.BaseClass : A major error happened
+2022-10-11 13:38:14,269 : INFO : utilities.BaseClass : Information statement
+2022-10-11 13:38:14,270 : WARNING : utilities.BaseClass : Something is warning mode
+2022-10-11 13:38:14,270 : ERROR : utilities.BaseClass : A major error happened
+2022-10-11 13:38:39,816 : INFO : utilities.BaseClass : Information statement
+2022-10-11 13:38:39,816 : WARNING : utilities.BaseClass : Something is warning mode
+2022-10-11 13:38:39,816 : ERROR : utilities.BaseClass : A major error happened
+2022-10-11 14:07:10,468 : INFO : test_e2e : iphone X
+2022-10-11 14:07:10,478 : INFO : test_e2e : Samsung Note 8
+2022-10-11 14:07:10,487 : INFO : test_e2e : Nokia Edge
+2022-10-11 14:07:10,496 : INFO : test_e2e : Blackberry
+2022-10-11 14:07:10,665 : INFO : test_e2e : entering country name as 'ind'
+2022-10-11 14:07:16,047 : INFO : test_e2e : The text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-13 15:54:40,059 : INFO : test_e2e : iphone X
+2022-10-13 15:54:40,069 : INFO : test_e2e : Samsung Note 8
+2022-10-13 15:54:40,078 : INFO : test_e2e : Nokia Edge
+2022-10-13 15:54:40,088 : INFO : test_e2e : Blackberry
+2022-10-13 15:54:40,279 : INFO : test_e2e : entering country name as 'ind'
+2022-10-13 15:54:45,628 : INFO : test_e2e : The text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-13 23:00:57,433 : INFO : test_e2e : iphone X
+2022-10-13 23:00:57,444 : INFO : test_e2e : Samsung Note 8
+2022-10-13 23:00:57,454 : INFO : test_e2e : Nokia Edge
+2022-10-13 23:00:57,464 : INFO : test_e2e : Blackberry
+2022-10-13 23:00:57,597 : INFO : test_e2e : entering country name as 'ind'
+2022-10-13 23:01:03,499 : INFO : test_e2e : The text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-13 23:13:37,323 : INFO : test_e2e : iphone X
+2022-10-13 23:13:37,328 : INFO : test_e2e : Samsung Note 8
+2022-10-13 23:13:37,331 : INFO : test_e2e : Nokia Edge
+2022-10-13 23:13:37,335 : INFO : test_e2e : Blackberry
+2022-10-13 23:13:37,991 : INFO : test_e2e : entering country name as 'ind'
+2022-10-13 23:13:43,807 : INFO : test_e2e : The text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-14 13:20:38,109 : INFO : test_e2e : iphone X
+2022-10-14 13:20:38,121 : INFO : test_e2e : Samsung Note 8
+2022-10-14 13:20:38,132 : INFO : test_e2e : Nokia Edge
+2022-10-14 13:20:38,145 : INFO : test_e2e : Blackberry
+2022-10-14 13:20:38,282 : INFO : test_e2e : entering country name as 'ind'
+2022-10-14 13:20:44,731 : INFO : test_e2e : The text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

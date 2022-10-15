@@ -1,0 +1,7 @@
+2022-10-13 14:28:35,054 : INFO : test_e2e : iphone X
+2022-10-13 14:28:35,064 : INFO : test_e2e : Samsung Note 8
+2022-10-13 14:28:35,073 : INFO : test_e2e : Nokia Edge
+2022-10-13 14:28:35,081 : INFO : test_e2e : Blackberry
+2022-10-13 14:28:35,242 : INFO : test_e2e : entering country name as 'ind'
+2022-10-13 14:28:40,613 : INFO : test_e2e : The text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
